@@ -7,7 +7,7 @@ include('conexion.php');
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatble" content="IE=edge">
 	<meta name="viewport" content="width=dvice=width,initial=scale=1.0">
-	<title>PHP Intro</title>
+	<title>Introduccion a PHP</title>
 </head>
 <body>
 <link rel="stylesheet" type="text/css" href="index.css">
